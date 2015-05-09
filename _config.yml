@@ -14,7 +14,15 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dkolkena.github.io" # the base hostname & protocol for your site
 paginate: 5
 
-# Contact
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/dkolkena
+  - title: facebook
+    url: https://facebook.com/dkolkena
+  - title: github
+    url: http://github.com/dkolkena
+
 twitter_username: dkolkena
 facebook_username: dkolkena
 github_username:  dkolkena
